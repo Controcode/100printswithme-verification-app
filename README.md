@@ -130,8 +130,8 @@ Two APK variants are provided for different use cases.
 
 | APK | Size | Recommended For | Download |
 |-----|------|-----------------|----------|
-| **100Prints Verification App (Universal)**| ~40 MB | Most users. Supports all major Android architectures. | [![Download APK](https://img.shields.io/badge/Download-APK-green.svg)](https://github.com/Controcode/100printswithme-verification-app/releases/download/v1.0.1/100printswithme-arm64-v8a.apk) |
-| **app-arm64-v8a.apk**| ~4 MB | Modern Android devices (ARM64 only). Smaller download and faster installation. |  [![Download APK](https://img.shields.io/badge/Download-APK-green.svg)](https://github.com/Controcode/100printswithme-verification-app/releases/latest/download/app-release.apk)|
+| **Verification APK**| ~40 MB | Most users. Supports all major Android architectures. | [![Download APK](https://img.shields.io/badge/Download-APK-green.svg)](https://github.com/Controcode/100printswithme-verification-app/releases/download/v1.0.1/100printswithme-arm64-v8a.apk) |
+| **arm64-v8a.APK**| ~4 MB | Modern Android devices (ARM64 only). Smaller download and faster installation. |  [![Download APK](https://img.shields.io/badge/Download-APK-green.svg)](https://github.com/Controcode/100printswithme-verification-app/releases/download/v1.0.1/100printswithme-universal.apk)|
 
 ### Which one should I install?
 
