@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">100PrintsWithMe</string>
+    <string name="app_subtitle">Badge Verifier</string>
+    <string name="scan_qr">Scan QR Code</string>
+    <string name="verify_badge">Verify a Badge</string>
+    <string name="enter_id_manually">Or enter verification ID</string>
+    <string name="recent_verifications">Recent Verifications</string>
+    <string name="see_all_history">See all history</string>
+    <string name="no_verifications_yet">No verifications yet. Scan or enter a badge to get started.</string>
+    <string name="verifying">Verifying…</string>
+    <string name="verified">Verified</string>
+    <string name="verification_failed">Verification Failed</string>
+    <string name="scan_another">Scan Another</string>
+    <string name="badge_not_found">Badge not found. Please check the verification ID.</string>
+    <string name="secret_required">This badge is private. A secret key is required.</string>
+    <string name="camera_permission_rationale">We use your camera only to scan badge QR codes. Nothing leaves your device.</string>
+    <string name="camera_permission_denied">Camera permission was denied. Please enable it from your phone settings to scan badges.</string>
+    <string name="allow_camera">Allow Camera</string>
+    <string name="enter_manually">Enter Manually</string>
+    <string name="align_qr">Align the QR within the frame</string>
+    <string name="secret_key">Secret Key</string>
+    <string name="pair_private_key">Pair your private key</string>
+    <string name="pair_private_key_desc">Some badges require a secret key to verify. It is stored securely on this device and only used when verifying.</string>
+    <string name="save_key">Save Key</string>
+    <string name="scan_secret_key">Scan key from QR</string>
+    <string name="history">History</string>
+    <string name="powered_by">Powered by 100PrintsWithMe</string>
+</resources>
