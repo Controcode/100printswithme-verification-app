@@ -2,7 +2,7 @@
 
 Official Android verification application for the **100PrintsWithMe** platform.
 
-The app allows organizers, schools, NGOs, companies, and event staff to instantly verify QR-enabled documents generated using 100Prints.
+The app allows organizers, schools, NGOs, companies, and event staff to instantly verify QR-enabled documents generated using 100PrintsWithMe.
 
 ---
 
